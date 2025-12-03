@@ -98,7 +98,6 @@ strapi/
 
 - [Strapi Documentation](https://docs.strapi.io)
 - [GitHub Repository](https://github.com/strapi/strapi)
-- [Discord Community](https://discord.strapi.io)
 
 ---
 
